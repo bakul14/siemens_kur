@@ -1,0 +1,216 @@
+Added Component: Designator=C1(CAPPR350-800X700)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPR750-1600X3150)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPR350-800X700)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPRR508-350X500X500)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPPR500-1000X2050)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPRR508-350X500X500)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPPR750-1600X3150)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=https://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1(CAPR1000-400X1300X950)
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES1651-1000X390)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_5W)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R11(TRIM_BOURNS_3296W)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/3296W-1-103LF/3296W-103LF-ND/1088045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, =Value, , 3296W, 0.5W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_5W)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES1651-1000X390)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES1016-630X250)
+Add component (AddParameter): Name = "Type"; Value = "Резистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-41)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(R6)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(R6)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(TO-220AB)
+Added Component: Designator=VT2(TO-92-A)
+Added Component: Designator=VT3(TO-92-A)
+Added Component: Designator=VT4(TO-92-A)
+Added Component: Designator=VT5(TO-92-A)
+Added Component: Designator=VT6(TO-92-A)
+Added Component: Designator=VT7(TO-92-A)
+Added Component: Designator=VT8(TO-92-A)
+Added Component: Designator=VT9(TO-220AB)
+Added Component: Designator=VT10(TO-220AB)
+Added Component: Designator=XS1(ST-025)
+Added Component: Designator=XS2(PHOENIX_1757242)
+Added Component: Designator=XS3(PHOENIX_1757255)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=https://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1-2
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VD2-2
+Added Pin To Net: NetName=NetC2_1 Pin=VT1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R8-1
+Added Pin To Net: NetName=NetC3_1 Pin=R10-2
+Added Pin To Net: NetName=NetC3_1 Pin=R13-2
+Added Pin To Net: NetName=NetC3_1 Pin=R14-2
+Added Pin To Net: NetName=NetC3_1 Pin=VT2-3
+Added Pin To Net: NetName=NetC3_1 Pin=VT6-3
+Added Pin To Net: NetName=NetC3_1 Pin=XS2-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R2-1
+Added Pin To Net: NetName=NetC3_2 Pin=R5-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R12-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R17-1
+Added Pin To Net: NetName=NetC6_1 Pin=VT10-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R15-1
+Added Pin To Net: NetName=NetC6_2 Pin=R16-1
+Added Pin To Net: NetName=NetC6_2 Pin=VT5-3
+Added Pin To Net: NetName=NetC6_2 Pin=VT10-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R18-1
+Added Pin To Net: NetName=NetC7_2 Pin=R19-1
+Added Pin To Net: NetName=NetC7_2 Pin=VD3-1
+Added Pin To Net: NetName=NetC7_2 Pin=VT9-2
+Added Pin To Net: NetName=NetC7_2 Pin=VT10-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=Nethttps://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1_1 Pin=https://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1-1
+Added Pin To Net: NetName=Nethttps://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1_1 Pin=R14-1
+Added Net: Name=Nethttps://www.eetimes.com/ic-audio-power-amplifiers-and-zobel-networks-one-size-does-not-fit-all/1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=VT3-3
+Added Pin To Net: NetName=NetR3_2 Pin=VT4-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=XS1-3
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=R7-1
+Added Pin To Net: NetName=NetR5_1 Pin=VT5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R11-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=VD1-1
+Added Pin To Net: NetName=NetR7_2 Pin=VT1-1
+Added Pin To Net: NetName=NetR7_2 Pin=VT2-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=VT1-3
+Added Pin To Net: NetName=NetR8_2 Pin=VT2-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=VT4-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R12-1
+Added Pin To Net: NetName=NetR10_1 Pin=VT3-2
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=VT5-2
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR11_3 Pin=R11-3
+Added Pin To Net: NetName=NetR11_3 Pin=R15-2
+Added Net: Name=NetR11_3
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=VT6-2
+Added Pin To Net: NetName=NetR13_1 Pin=VT9-3
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=VT6-1
+Added Pin To Net: NetName=NetR16_2 Pin=VT9-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R18-2
+Added Pin To Net: NetName=NetR17_2 Pin=VT7-3
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=VT8-3
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetVD2_1 Pin=VD2-1
+Added Pin To Net: NetName=NetVD2_1 Pin=XS3-1
+Added Net: Name=NetVD2_1
+Added Pin To Net: NetName=NetVD3_2 Pin=VD3-2
+Added Pin To Net: NetName=NetVD3_2 Pin=XS3-3
+Added Net: Name=NetVD3_2
+Added Pin To Net: NetName=NetVT3_1 Pin=VT3-1
+Added Pin To Net: NetName=NetVT3_1 Pin=VT8-1
+Added Net: Name=NetVT3_1
+Added Pin To Net: NetName=NetVT4_1 Pin=VT4-1
+Added Pin To Net: NetName=NetVT4_1 Pin=VT7-1
+Added Pin To Net: NetName=NetVT4_1 Pin=VT7-2
+Added Pin To Net: NetName=NetVT4_1 Pin=VT8-2
+Added Net: Name=NetVT4_1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
