@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=XS2 Old Footprint=PHOENIX_1757242 New Footprint=15EDGRC-3.81-02P
+Change Component Footprint: Designator=XS3 Old Footprint=PHOENIX_1757255 New Footprint=15EDGRC-3.81-03P
+Change Component Comment : Designator=XS2 Old Comment=Dynamic Connector 2 pin New Comment=Connector Dynamic 2 pin
+Change Component Comment : Designator=XS3 Old Comment=Power Connector 3 pin New Comment=Connector Power 3 pin

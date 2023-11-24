@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=VT10-1
+Removed Pin From Net: NetName=NetC6_2 Pin=VT10-2
+Change Component Footprint: Designator=VT10 Old Footprint=TO-220AB New Footprint=TO-92-A
+Added Pin To Net: NetName=NetC6_2 Pin=VT10-1
+Added Pin To Net: NetName=NetC6_1 Pin=VT10-2
