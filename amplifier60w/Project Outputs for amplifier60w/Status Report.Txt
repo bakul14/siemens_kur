@@ -1,0 +1,20 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [amplifier60w.PrjPcb]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[matrix]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 01:36:53 On 25.11.2023
