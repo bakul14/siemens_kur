@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for amplifier60w
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -182,6 +182,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=REEXUBGH
 
+[Document9]
+DocumentPath=Job2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
@@ -219,15 +236,23 @@ DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\netlists\cadnet\netl
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for amplifier60w\PCB1.REP
+DocumentPath=Документация\PCB1.PcbDoc.pdf
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\profile
+DocumentPath=Project Outputs for amplifier60w\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Документация\ИУ4.11.03.03.23.05.52.04.002.pdf
 DItemRevisionGUID=
 
 [Configuration1]
@@ -277,7 +302,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for amplifier60w
 
 [OutputGroup1]
 Name=Netlist Outputs
