@@ -165,6 +165,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=amplifier60w.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=REEXUBGH
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
@@ -616,6 +633,11 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=BoardAssistant
+OutputName9=BoardAssistant text documents
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
