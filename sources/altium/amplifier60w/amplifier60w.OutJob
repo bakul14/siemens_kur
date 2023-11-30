@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [PublishSettings]
-OutputFilePath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\amplifier60w\.PDF
+OutputFilePath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\sources\altium\amplifier60w\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\amplifier60w\
+OutputBasePath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\sources\altium\amplifier60w\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -94,7 +94,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\amplifier60w\.PDF
+RelativeOutputPath2=D:\misha\bmstu\AltiumBMSTU\siemens_kur\sources\altium\amplifier60w\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
