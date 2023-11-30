@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for amplifier60w
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -148,6 +148,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=amplifier60w.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for amplifier60w\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
@@ -205,6 +222,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=2
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for amplifier60w
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -322,7 +378,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 Name=Documentation Outputs
 Description=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -404,7 +460,9 @@ OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.67|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=D:\misha\bmstu\AltiumBMSTU\siemens_kur\amplifier60w\Sheet1.SchDoc
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
@@ -1142,130 +1200,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=Audio Connector 3 pin
-ComponentSymbolReference0=Audio Connector 3 pin
+ComponentDesignItemID0=Resistor Trimmer 1K
+ComponentSymbolReference0=Resistor Trimmer 1K
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Schlib1.SchLib
-ComponentDesignItemID1=BC546C
-ComponentSymbolReference1=BC546C
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Schlib1.SchLib
-ComponentDesignItemID2=BC556B
-ComponentSymbolReference2=BC556B
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Schlib1.SchLib
-ComponentDesignItemID3=Cap Ceramic 100pF
-ComponentSymbolReference3=Cap Ceramic 100pF
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Schlib1.SchLib
-ComponentDesignItemID4=Cap Film 0.68uF 250V
-ComponentSymbolReference4=Cap Film 0.68uF 250V
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Schlib1.SchLib
-ComponentDesignItemID5=Cap Polarity 100uF 100V
-ComponentSymbolReference5=Cap Polarity 100uF 100V
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Schlib1.SchLib
-ComponentDesignItemID6=Cap Polarity 2200uF 35V
-ComponentSymbolReference6=Cap Polarity 2200uF 35V
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Schlib1.SchLib
-ComponentDesignItemID7=Cap Polarity 47uF 50V
-ComponentSymbolReference7=Cap Polarity 47uF 50V
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Schlib1.SchLib
-ComponentDesignItemID8=Connector Dynamic 2 pin
-ComponentSymbolReference8=Connector Dynamic 2 pin
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Schlib1.SchLib
-ComponentDesignItemID9=Connector Power 3 pin
-ComponentSymbolReference9=Connector Power 3 pin
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Schlib1.SchLib
-ComponentDesignItemID10=Diode 15SQ045
-ComponentSymbolReference10=Diode 15SQ045
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Schlib1.SchLib
-ComponentDesignItemID11=Diode 1N4002
-ComponentSymbolReference11=Diode 1N4002
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Schlib1.SchLib
-ComponentDesignItemID12=IRF510PBF
-ComponentSymbolReference12=IRF510PBF
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Schlib1.SchLib
-ComponentDesignItemID13=IRF9510PBF
-ComponentSymbolReference13=IRF9510PBF
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Schlib1.SchLib
-ComponentDesignItemID14=Resistor 0.25W
-ComponentSymbolReference14=Resistor 0.25W
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Schlib1.SchLib
-ComponentDesignItemID15=Resistor 1W
-ComponentSymbolReference15=Resistor 1W
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Schlib1.SchLib
-ComponentDesignItemID16=Resistor 5W
-ComponentSymbolReference16=Resistor 5W
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Schlib1.SchLib
-ComponentDesignItemID17=Resistor Trimmer 1K
-ComponentSymbolReference17=Resistor Trimmer 1K
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Schlib1.SchLib
-ComponentDesignItemID18=Transistor N-Mosfet BS170
-ComponentSymbolReference18=Transistor N-Mosfet BS170
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Schlib1.SchLib
-ComponentDesignItemID19=Transistor NPN BC546C
-ComponentSymbolReference19=Transistor NPN BC546C
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1297,74 +1241,49 @@ ParameterName7=PartNumber
 ParameterUpdate7=1
 ParameterName8=Power
 ParameterUpdate8=1
-ParameterName9=Published
+ParameterName9=Temperature
 ParameterUpdate9=1
-ParameterName10=Publisher
+ParameterName10=TypeResistor
 ParameterUpdate10=1
-ParameterName11=Temperature
+ParameterName11=ValueManufacturerPartNumber
 ParameterUpdate11=1
-ParameterName12=Type
-ParameterUpdate12=1
-ParameterName13=TypeResistor
-ParameterUpdate13=1
-ParameterName14=ValueManufacturerPartNumber
-ParameterUpdate14=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=15EDGRC-3.81-02P
+ModelName0=TRIM_BOURNS_3296W
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=15EDGRC-3.81-03P
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPPR350-800X700
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPPR500-1000X2050
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPPR750-1600X3150
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CAPR1000-400X1300X950
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=CAPRR508-350X500X500
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=DO-41
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=R6
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=RES_5W
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=RES1016-630X250
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=RES1651-1000X390
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=ST-025
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=TO-220AB
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=TO-92-A
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=TRIM_BOURNS_3296W
-ModelUpdate15=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=GND|NetColor=clBlack
+Net2=NetName=NetC1_1|NetColor=clBlack
+Net3=NetName=NetC2_1|NetColor=clBlack
+Net4=NetName=NetC3_1|NetColor=clBlack
+Net5=NetName=NetC3_2|NetColor=clBlack
+Net6=NetName=NetC4_1|NetColor=clBlack
+Net7=NetName=NetC6_1|NetColor=clBlack
+Net8=NetName=NetC6_2|NetColor=clBlack
+Net9=NetName=NetC7_2|NetColor=clBlack
+Net10=NetName=NetR10_1|NetColor=clBlack
+Net11=NetName=NetR13_1|NetColor=clBlack
+Net12=NetName=NetR15_2|NetColor=clBlack
+Net13=NetName=NetR16_2|NetColor=clBlack
+Net14=NetName=NetR17_2|NetColor=clBlack
+Net15=NetName=NetR19_2|NetColor=clBlack
+Net16=NetName=NetR3_2|NetColor=clBlack
+Net17=NetName=NetR4_2|NetColor=clBlack
+Net18=NetName=NetR5_1|NetColor=clBlack
+Net19=NetName=NetR6_1|NetColor=clBlack
+Net20=NetName=NetR7_2|NetColor=clBlack
+Net21=NetName=NetR8_2|NetColor=clBlack
+Net22=NetName=NetRP1_2|NetColor=clBlack
+Net23=NetName=NetVD2_1|NetColor=clBlack
+Net24=NetName=NetVD3_2|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
