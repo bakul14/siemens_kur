@@ -1,0 +1,25 @@
+* D:\misha\bmstu\AltiumBMSTU\siemens_kur\simulation\working_fet1.sch
+
+* Schematics Version 9.2
+* Sun Dec 03 12:54:04 2023
+
+
+.PARAM         Vn=5k Rn=2k 
+
+** Analysis setup **
+.tran 0ns 0.5ms 0 0.5us
+.OP 
+.LIB "D:\misha\bmstu\pspiceprojects\kursac\Schematic1.lib"
+.STMLIB "Schematic1.stl"
+
+
+* From [PSPICE NETLIST] section of d:\misha\programs\pspice92\PSpice\PSpice.ini:
+.lib "nom.lib"
+
+.INC "working_fet1.net"
+
+
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+
+
+.END
