@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=VD2-2
+Removed Pin From Net: NetName=NetC8_2 Pin=VD3-1
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Change Component Designator: OldDesignator=XP1 NewDesignator=XP2
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP1
+Added Component: Designator=VD2(R6)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC8_2 Pin=VD2-1
+Change Net Name : Old Net Name=NetVD2_1 New Net Name=NetVD1_1
+Change Net Color : Old Net Color=Black New Net Color=Default
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetVD2_2 Pin=XP1-3
+Added Net: Name=NetVD2_2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Ceramic 100pF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 100uF 100V
+Added Member To Class: ClassName=Sheet1 Member=Component C7 2200uF 35V
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R4 Resistor 1W
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R11 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R12 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R14 Resistor 0.25W
+Added Member To Class: ClassName=Sheet1 Member=Component R16 Resistor 5W
+Added Member To Class: ClassName=Sheet1 Member=Component R17 Resistor 5W
+Added Member To Class: ClassName=Sheet1 Member=Component R18 Resistor 1W
+Added Member To Class: ClassName=Sheet1 Member=Component VD2 Diode 15SQ045
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 BC556B
+Added Member To Class: ClassName=Sheet1 Member=Component VT5 BC556B
+Added Member To Class: ClassName=Sheet1 Member=Component VT6 BC546C
+Added Member To Class: ClassName=Sheet1 Member=Component VT8 IRF9510PBF
